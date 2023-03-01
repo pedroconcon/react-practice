@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Expenses
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a prototype of a organizer expenses. I used React JS and just vanilla JS.
+
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
