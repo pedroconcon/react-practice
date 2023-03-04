@@ -3,7 +3,7 @@
 This is a prototype of a organizer expenses. I used React JS and just vanilla JS.
 
 
-# Getting Started with Create React App
+# Started with Create React App
 
 ## Available Scripts
 
