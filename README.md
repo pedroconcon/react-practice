@@ -1,4 +1,4 @@
 # React Projects
 
-This project have many branches, and every branch hava a diferent project with diferent components to training react concepts and studies to improve my knowleadge.
+This project has many branches, and every branch have a different projects with components to training react concepts and studies to improve my knowledge.
 
