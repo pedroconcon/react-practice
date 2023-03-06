@@ -1,9 +1,15 @@
-# Expenses
 
-This is a prototype of a organizer expenses. I used React JS and just vanilla JS.
+This is a simple program to training state and basic concepts
 
+Concepts usefull:
+- Structure projects with Card and create a generic button with dynamic classes
+- useState
+- lifting state up
+- create modal
 
-# Started with Create React App
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
