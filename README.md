@@ -1,9 +1,9 @@
 
-I work on this project about Fragments, Portal and Refs
--Fragments is good to avoid tags like div's useless, so we use to render the component through the children
--Portal is usefull to render the component in another place outside the root, normaly is used in a modals
--Refs allow us to get access to other DOM elements, work with a set up a connection between HTML element and JS code
--Another topic about refs, normaly if we just read a value in a input for example is good use useRef instead of useState
+I work on this project about Fragments, Portal and Refs:
+- Fragments is good to avoid tags like div's useless, so we use to render the component through the children
+- Portal is usefull to render the component in another place outside the root, normaly is used in a modals
+- Refs allow us to get access to other DOM elements, work with a set up a connection between HTML element and JS code
+- Another topic about refs, normaly if we just read a value in a input for example is good use useRef instead of useState
 
 This is a simple program to training state and basic concepts
 
