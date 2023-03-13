@@ -1,4 +1,16 @@
-html{
+* {
+  box-sizing: border-box;
+}
+
+html {
   font-family: sans-serif;
-  background: #999999;
+  background: #fff;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin-top: 6rem;
 }
